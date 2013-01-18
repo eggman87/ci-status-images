@@ -11,15 +11,25 @@ Please feel free to use these images in your own projects as you see fit.
 ## Build status
 
 Imitations of [Travis CI](https://travis-ci.org/)'s existing
-[build status images](https://github.com/travis-ci/travis-ci/tree/master/public/images/result):
+[build status images](https://github.com/travis-ci/travis-ci/tree/master/public/images/result).
+
+### Variable width
 
 - ![passing](https://raw.github.com/ezzatron/ci-status-images/master/img/build-status/build-status-passing.png)
 - ![failing](https://raw.github.com/ezzatron/ci-status-images/master/img/build-status/build-status-failing.png)
 - ![unknown](https://raw.github.com/ezzatron/ci-status-images/master/img/build-status/build-status-unknown.png)
 
+### Fixed width
+
+- ![passing](https://raw.github.com/ezzatron/ci-status-images/master/img/build-status-fixed-width/build-status-passing.png)
+- ![failing](https://raw.github.com/ezzatron/ci-status-images/master/img/build-status-fixed-width/build-status-failing.png)
+- ![unknown](https://raw.github.com/ezzatron/ci-status-images/master/img/build-status-fixed-width/build-status-unknown.png)
+
 ## Test coverage
 
-In 5% increments:
+A series of coverage percentages in 5% increments, and an 'unknown' variant.
+
+### Variable width
 
 - ![100%](https://raw.github.com/ezzatron/ci-status-images/master/img/test-coverage/test-coverage-100.png)
 - ![95%](https://raw.github.com/ezzatron/ci-status-images/master/img/test-coverage/test-coverage-095.png)
