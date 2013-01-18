@@ -19,7 +19,7 @@ Imitations of [Travis CI](https://travis-ci.org/)'s existing
 - ![failing](https://raw.github.com/ezzatron/ci-status-images/master/img/build-status/build-status-failing.png)
 - ![unknown](https://raw.github.com/ezzatron/ci-status-images/master/img/build-status/build-status-unknown.png)
 
-### Fixed width
+### Fixed width (95 x 13 pixels)
 
 - ![passing](https://raw.github.com/ezzatron/ci-status-images/master/img/build-status-fixed-width/build-status-passing.png)
 - ![failing](https://raw.github.com/ezzatron/ci-status-images/master/img/build-status-fixed-width/build-status-failing.png)
@@ -54,7 +54,7 @@ A series of coverage percentages in 5% increments, and an 'unknown' variant.
 - ![0%](https://raw.github.com/ezzatron/ci-status-images/master/img/test-coverage/test-coverage-000.png)
 - ![unknown](https://raw.github.com/ezzatron/ci-status-images/master/img/test-coverage/test-coverage-unknown.png)
 
-### Fixed width
+### Fixed width (89 x 13 pixels)
 
 - ![100%](https://raw.github.com/ezzatron/ci-status-images/master/img/test-coverage-fixed-width/test-coverage-100.png)
 - ![95%](https://raw.github.com/ezzatron/ci-status-images/master/img/test-coverage-fixed-width/test-coverage-095.png)
