@@ -1,0 +1,14 @@
+{
+    "name": "ezzatron/ci-status-images",
+    "description": "Test coverage percentage and other useful status images for continuous integration systems.",
+    "keywords": ["continuous","integration","ci","status","image","icon","button","label","travis","github"],
+    "homepage": "https://github.com/ezzatron/ci-status-images",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Erin Millard",
+            "email": "ezzatron@gmail.com",
+            "homepage": "http://ezzatron.com/"
+        }
+    ]
+}
