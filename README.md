@@ -33,3 +33,4 @@ In 5% increments:
 - ![10%](https://raw.github.com/ezzatron/ci-status-images/master/img/test-coverage/test-coverage-010.png)
 - ![5%](https://raw.github.com/ezzatron/ci-status-images/master/img/test-coverage/test-coverage-005.png)
 - ![0%](https://raw.github.com/ezzatron/ci-status-images/master/img/test-coverage/test-coverage-000.png)
+- ![unknown](https://raw.github.com/ezzatron/ci-status-images/master/img/test-coverage/test-coverage-unknown.png)
