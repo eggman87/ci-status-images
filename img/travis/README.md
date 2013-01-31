@@ -14,13 +14,17 @@ Imitations of [Travis CI](https://travis-ci.org/)'s existing
 
 - ![passing](variable-width/build-status/build-status-passing.png)
 - ![failing](variable-width/build-status/build-status-failing.png)
+- ![pending](variable-width/build-status/build-status-pending.png)
 - ![unknown](variable-width/build-status/build-status-unknown.png)
+- ![error](variable-width/build-status/build-status-error.png)
 
 ### Fixed width variant (95 x 13 pixels)
 
 - ![passing](fixed-width/build-status/build-status-passing.png)
 - ![failing](fixed-width/build-status/build-status-failing.png)
+- ![pending](fixed-width/build-status/build-status-pending.png)
 - ![unknown](fixed-width/build-status/build-status-unknown.png)
+- ![error](fixed-width/build-status/build-status-error.png)
 
 ## Test coverage
 
@@ -50,6 +54,7 @@ A series of coverage percentages in 5% increments, and an 'unknown' variant.
 - ![5%](variable-width/test-coverage/test-coverage-005.png)
 - ![0%](variable-width/test-coverage/test-coverage-000.png)
 - ![unknown](variable-width/test-coverage/test-coverage-unknown.png)
+- ![error](variable-width/test-coverage/test-coverage-error.png)
 
 ### Fixed width variant (89 x 13 pixels)
 
@@ -75,3 +80,4 @@ A series of coverage percentages in 5% increments, and an 'unknown' variant.
 - ![5%](fixed-width/test-coverage/test-coverage-005.png)
 - ![0%](fixed-width/test-coverage/test-coverage-000.png)
 - ![unknown](fixed-width/test-coverage/test-coverage-unknown.png)
+- ![error](fixed-width/test-coverage/test-coverage-error.png)
