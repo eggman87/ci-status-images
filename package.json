@@ -1,7 +1,7 @@
 {
     "name": "ci-status-images",
     "description": "Test coverage percentage and other useful status images for continuous integration systems.",
-    "version": "3.0.0",
+    "version": "3.0.1",
     "keywords": ["continuous","integration","ci","status","image","icon","button","label","travis","github"],
     "homepage": "https://github.com/ezzatron/ci-status-images",
     "license": "MIT",
@@ -9,5 +9,11 @@
         "name": "Erin Millard",
         "email": "ezzatron@gmail.com",
         "url": "http://ezzatron.com/"
-    }
+    },
+    "contributors": [
+        {
+            "name": "James Harris",
+            "email": "james.harris@icecave.com.au"
+        }
+    ]
 }
