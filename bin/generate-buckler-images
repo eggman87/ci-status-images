@@ -65,5 +65,3 @@ for ($percentage = 0; $percentage <= 100; $percentage += 5) {
     );
     echo 'Done' . PHP_EOL;
 }
-
-
