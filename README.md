@@ -11,9 +11,19 @@ Please feel free to use these images in your own projects as you see fit.
 
 ## Themes
 
-### [Travis Theme](img/travis)
+### [Buckler Theme](img/buckler)
 
-A theme styled after [Travis CI](https://travis-ci.org/)'s
+A theme matching the style of [Shields.io](http://shields.io) and the current
+[Travis CI](https://travis-ci.org/) theme, generated using [Buckler](http://b.repl.ca/).
+
+![passing](img/buckler/buckler/build-status/build-status-passing.png)&nbsp;
+![failing](img/buckler/buckler/build-status/build-status-failing.png)&nbsp;
+![unknown](img/buckler/buckler/build-status/build-status-unknown.png)&nbsp;
+![coverage](img/buckler/buckler/test-coverage/test-coverage-100.png)
+
+### [Classic Travis Theme](img/travis)
+
+A theme styled after [Travis CI](https://travis-ci.org/)'s original
 [build status images](https://github.com/travis-ci/travis-ci/tree/master/public/images/result),
 created by [ezzatron](https://github.com/ezzatron).
 
