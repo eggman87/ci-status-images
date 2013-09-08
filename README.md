@@ -13,8 +13,8 @@ Please feel free to use these images in your own projects as you see fit.
 
 ### [Buckler Theme](img/buckler)
 
-A theme generated using [Buckler](http://b.repl.ca/) (matches the style of [Shields.io](http://shields.io) and the current
-[Travis CI](https://travis-ci.org/) theme).
+A theme matching the style of [Shields.io](http://shields.io) and the current
+[Travis CI](https://travis-ci.org/) theme, generated using [Buckler](http://b.repl.ca/).
 
 ![passing](img/buckler/buckler/build-status/build-status-passing.png)&nbsp;
 ![failing](img/buckler/buckler/build-status/build-status-failing.png)&nbsp;
